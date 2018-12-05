@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import { DEFAULT_CALLBACKS, DEFAULT_OPTIONS, KEYS, HIGHLIGHT } from '../shared/constants'
+import { DEFAULT_CALLBACKS, DEFAULT_OPTIONS, KEYS } from '../shared/constants'
 
 export default {
   name: 'v-tour',
